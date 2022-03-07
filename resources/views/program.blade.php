@@ -4,9 +4,7 @@
     {{ $title }}
 @endsection
 
-@section('statusHome')
-    {{ $status }}    
-@endsection
+
 
 @section('content')
     <div class="page-h promotion">
