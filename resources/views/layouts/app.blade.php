@@ -32,12 +32,12 @@
                     </div>
                     <div class="collapse navbar-collapse" id="main-menu">
                         <ul class="nav navbar-nav navbar-right">
-                            <li @yield('statusHome')><a href="/home">Home</a></li>
-                            <li @yield('statusProduct')><a href="/product">Products</a></li>
-                            <li @yield('statusProgram')><a href="/program">Program</a></li>
-                            <li @yield('statusNews')><a href="/news">News</a></li>
-                            <li @yield('statusAbout')><a href="/about">About</a></li>
-                            <li @yield('statusContact')><a href="/contact">Contact</a></li>
+                            <li ><a href="/home">Home</a></li>
+                            <li ><a href="/product">Products</a></li>
+                            <li ><a href="/program">Program</a></li>
+                            <li ><a href="/news">News</a></li>
+                            <li ><a href="/about">About</a></li>
+                            <li ><a href="/contact">Contact</a></li>
                         </ul>
                     </div>
                 </nav>         
