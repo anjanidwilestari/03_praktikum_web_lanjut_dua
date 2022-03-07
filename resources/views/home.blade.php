@@ -38,3 +38,7 @@
         </div>
     </div>
 @endsection
+
+@section('footer')
+    <p>by Kelompok Anjani & Bella</p>
+@endsection
